@@ -1,0 +1,18 @@
+[
+    {
+        "id": "dadaf581-ebfd-4f45-82cf-be2e38759724",
+        "train_name": "rockfort",
+        "train_number": "12432",
+        "source": "trichy",
+        "destination": "chennai",
+        "frequency": "daily"
+    },
+    {
+        "id": "b9578ecb-a5ab-48ce-a498-60d4a1a362e4",
+        "train_name": "charminar",
+        "train_number": "23424",
+        "source": "hyderabad",
+        "destination": "chennai",
+        "frequency": "daily"
+    }
+]

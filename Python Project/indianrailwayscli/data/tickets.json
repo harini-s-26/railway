@@ -1,0 +1,26 @@
+[
+    {
+        "ticket_id": "95f04a99-3971-4b2c-8a64-f2e6f3e86420",
+        "user_id": "1afd4018-a5f2-47c1-9c04-d535fbb5230d",
+        "train_number": "12432",
+        "train_name": "rockfort",
+        "passenger_name": "Harini",
+        "age": "23",
+        "gender": "Female",
+        "source": "trichy",
+        "destination": "chennai",
+        "status": "Confirmed"
+    },
+    {
+        "ticket_id": "1d61cabf-ecb9-4636-a47f-6fe954f0ab27",
+        "user_id": "1afd4018-a5f2-47c1-9c04-d535fbb5230d",
+        "train_number": "23424",
+        "train_name": "charminar",
+        "passenger_name": "Har",
+        "age": "23",
+        "gender": "Female",
+        "source": "hyderabad",
+        "destination": "chennai",
+        "status": "Cancelled"
+    }
+]

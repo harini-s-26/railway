@@ -1,0 +1,16 @@
+[
+    {
+        "id": "d12a8ca9-3953-47cc-978c-9f610ff89da9",
+        "username": "aei",
+        "email": "aei@gmail.com",
+        "password": "aee",
+        "role": "admin"
+    },
+    {
+        "id": "1afd4018-a5f2-47c1-9c04-d535fbb5230d",
+        "username": "hari",
+        "email": "hari@gmail.com",
+        "password": "hari",
+        "role": "passenger"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "id": "6cb12074-3486-48bd-baf5-02cd83265b42",
+        "train_id": "1234",
+        "stops": [
+            {
+                "station": "trichy",
+                "arrival": "23:42",
+                "departure": "04:56",
+                "platform": "3"
+            },
+            {
+                "station": "3456",
+                "arrival": "23:45",
+                "departure": "9:23",
+                "platform": "4"
+            }
+        ]
+    }
+]
